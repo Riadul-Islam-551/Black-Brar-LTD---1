@@ -10,10 +10,12 @@ body{
     background: rgb(247,247,247);
 background: radial-gradient(circle, rgba(247,247,247,1) 0%, rgba(9,52,102,1) 100%);
 }
-
+a{
+    color: white;
+}
 .details{
     text-align: justify;
 }
-button{
+a button{
     color: white;
 }
